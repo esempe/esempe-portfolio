@@ -1,0 +1,15 @@
+.aboutMeWrapper{
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+.subTitle{
+    font-size: 22px;
+    font-size: 22px;
+    padding: 50px;
+    width: 450px;
+}
+.photo img{
+    margin-right: 50px;
+    height: 100%;
+}

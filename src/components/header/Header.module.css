@@ -1,0 +1,22 @@
+.headerWrapper {
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    background-color: #38eee4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title {
+
+}
+
+.navBar {
+    display: flex;
+    gap: 25px;
+    border: 2px solid black;
+}
+
+.navItem {
+
+}
